@@ -1,11 +1,11 @@
-[![MasterHead](https://i.pinimg.com/originals/19/6a/d9/196ad9d3122098b297d7b99ce9ff209f.gif)
+![MasterHead](https://i.pinimg.com/originals/19/6a/d9/196ad9d3122098b297d7b99ce9ff209f.gif)
 <h1 align="center">Hi 👋, I'm Rohit Rai</h1>
 <h3 align="center">Professional Talented Frontend Engineer</h3>
 
 
 - 🌱 I’m currently learning **Exploring Backend ||Exploring Mobile App Developer || Exploring Data Science**
 
-- 📫 How to reach me **https://linktr.ee/rohitrai2**
+- 📫 How to reach me **https://rohitrai-portfolio.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
