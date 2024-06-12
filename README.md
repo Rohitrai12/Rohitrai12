@@ -3,7 +3,7 @@
 <h3 align="center">Professional Talented Frontend Engineer</h3>
 
 
-- 🌱 I am Frontend Developer experience in Creating Professional, Modern Websites. Building Full stack Web Application with User Authentication and Payment Gateway and All Features that You can Imagine!
+Hi! I'm Rohit Rai, Frontend Developer, UI/UX Designer, Software Engineer Freelancer.
 
 
 - 📫 How to reach me **https://rohitrai-portfolio.vercel.app/**
