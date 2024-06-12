@@ -3,7 +3,7 @@
 <h3 align="center">Professional Talented Frontend Engineer</h3>
 
 
-Hi! I'm Rohit Rai, Frontend Developer, UI/UX Designer, Software Engineer Freelancer.
+- Hi! I'm Rohit Rai, Frontend Developer, UI/UX Designer, Software Engineer Freelancer.
 
 
 - 📫 How to reach me **https://rohitrai-portfolio.vercel.app/**
