@@ -29,6 +29,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2343853D.svg?style=for-the-badge&logo=OpenAI&logoColor=white) 
 
+
+<h3 align="left">Stars</h3>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitrai12&layout=compact&theme=nord" alt=wasdthedebugger />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://rohitrai-portfolio.vercel.app/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4E03AQFv0pQcye2NBg/profile-displayphoto-shrink_800_800/0/1715497919396?e=1724284800&v=beta&t=OW4gDxt-jdWflmkOQZ7u2ajSsApENRMW2Ck14UeHY80" alt="rohitrai-portfolio" height="30" width="40" /></a>
