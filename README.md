@@ -37,5 +37,5 @@
 <p align="left">
   <a href="https://rohitrai-portfolio.vercel.app/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4E03AQFv0pQcye2NBg/profile-displayphoto-shrink_800_800/0/1715497919396?e=1724284800&v=beta&t=OW4gDxt-jdWflmkOQZ7u2ajSsApENRMW2Ck14UeHY80" alt="rohitrai-portfolio" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/rohitrai0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="rohitrai0" height="30" width="40" /></a>
-  <a href="https://twitter.com/rohitrai_09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="rohitrai_09" height="30" width="40" /></a>
+  <a href="https://x.com/rohitrai_09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="rohitrai_09" height="30" width="40" /></a>
 </p>
