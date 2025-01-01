@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **MEARN, UI/UX, FRONTEND**
+- 💬 Ask me about **MERN, UI/UX, FRONTEND**
 
 - 📫 How to reach me **rohitrai8907@gmail.com**
 
