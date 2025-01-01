@@ -2,48 +2,23 @@
 <h1 align="center">Hi 👋, I'm Rohit Rai</h1>
 <h3 align="center">A passionate Talented MERN Stack Developer from Pakistan</h3>
 
-<h3 align="center"> - Hi! I'm Rohit Rai, Frontend Developer, UI/UX Designer, Software Engineer Freelancer. </h3> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Rohitrai" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
-
-- 🔭 I’m currently working on **Vexa Web App**
+<p align="left"> <a href="https://www.linkedin.com/in/rohitrai0/" target="blank"><img src="https://img.shields.io/twitter/follow/Rohit?logo=twitter&style=for-the-badge" alt="Rohitrai"  </p>
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **MEARN, UI/UX, FRONTEND**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **rohitrai8907@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+
   
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Framer Motion](https://img.shields.io/badge/framermotion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=1EFF00) 
-![GSAP](https://img.shields.io/badge/gsap-%2300C48C.svg?style=for-the-badge&logo=greensock&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/visualstudiocode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%2343853D.svg?style=for-the-badge&logo=OpenAI&logoColor=white) 
+
 
 
 <h3 align="left">Stars</h3>
