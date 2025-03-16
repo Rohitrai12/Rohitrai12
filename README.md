@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dafebd6c-b88a-4fe8-b179-cf7545ba2925)![MasterHead](![image](https://github.com/user-attachments/assets/92f8a595-895e-4ce0-b9ed-360ca037fb41))
+(https://github.com/user-attachments/assets/dafebd6c-b88a-4fe8-b179-cf7545ba2925)![MasterHead](![image](https://github.com/user-attachments/assets/92f8a595-895e-4ce0-b9ed-360ca037fb41)
 
 <h1 align="center">Hi 👋, I'm Rohit Rai</h1>
 <h3 align="center">A passionate Talented MERN Stack Developer from Pakistan</h3>
