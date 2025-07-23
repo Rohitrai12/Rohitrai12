@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rohit Rai</h1>
-<h3 align="center">A passionate Talented MERN Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate Talented Full Stack Developer from Pakistan</h3>
 
 <img align="center" alt="Coding Banner" width="100%" src="https://i.ibb.co/y4d0pCZ/White-Minimalist-Profile-Linked-In-Banner-2-1-1.png">
 
@@ -10,13 +10,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Rohitrai" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/rohitrai0/" target="blank"><img src="https://img.shields.io/twitter/follow/Rohit?logo=twitter&style=for-the-badge" alt="Rohitrai"  </p>
+<p align="left"> <a href="https://www.linkedin.com/in/rohitraidev/" target="blank"><img src="https://img.shields.io/twitter/follow/Rohit?logo=twitter&style=for-the-badge" alt="Rohitrai"  </p>
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **MERN, UI/UX, FRONTEND**
-
-- 📫 How to reach me **rohitrai8907@gmail.com**
+- 📫 How to reach me **<p align="left"> <a href="https://www.linkedin.com/in/rohitraidev/" target="blank"><img src="https://img.shields.io/twitter/follow/Rohit?logo=twitter&style=for-the-badge" alt="Rohitrai"  </p>
+**
 
 - ⚡ Fun fact **I am Funny**
 
