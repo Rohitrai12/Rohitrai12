@@ -14,9 +14,6 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 📫 How to reach me **<p align="left"> <a href="https://www.linkedin.com/in/rohitraidev/" target="blank"><img src="https://img.shields.io/twitter/follow/Rohit?logo=twitter&style=for-the-badge" alt="Rohitrai"  </p>
-**
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Stars</h3>
