@@ -1,5 +1,5 @@
-![MasterHead](<img width="1280" height="720" alt="Stay Consistent Long Enough to Become Unstoppable  (1)-Photoroom" src="https://github.com/user-attachments/assets/7daf2b5b-377f-4ebd-b9e6-47752c34075e" />
-fff )
+<img width="1280" height="720" alt="Stay Consistent Long Enough to Become Unstoppable  (1)-Photoroom" src="https://github.com/user-attachments/assets/7daf2b5b-377f-4ebd-b9e6-47752c34075e" />
+
 
 <h1 align="center">Hi 👋, I'm Rohit Rai</h1>
 <h3 align="center">A passionate Talented MERN Stack Developer from Pakistan</h3>
