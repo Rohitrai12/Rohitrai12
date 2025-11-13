@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rohit Rai</h1>
-<h3 align="center">A passionate Talented Full Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate Talented Full Stack Developer</h3>
 
 <img align="center" alt="Coding Banner" width="100%" src="https://i.ibb.co/y4d0pCZ/White-Minimalist-Profile-Linked-In-Banner-2-1-1.png">
 
