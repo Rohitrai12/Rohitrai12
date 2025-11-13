@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Rohitrai" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/rohitraidev/" target="blank"><img src="https://img.shields.io/twitter/follow/Rohit?logo=twitter&style=for-the-badge" alt="Rohitrai"  </p>
+<p align="left"> <a href="http://x.com/the_Rohitrai/" target="blank"><img src="https://img.shields.io/twitter/follow/Rohit?logo=twitter&style=for-the-badge" alt="Rohitrai"  </p>
 
 - 🌱 I’m currently learning **DevOps**
 
